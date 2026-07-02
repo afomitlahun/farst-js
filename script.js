@@ -57,3 +57,8 @@ console.log(sub(10,5));
 const square = number => number*number;
 console.log(square(5));
 console.log(square(8));
+import { test }  from "./arr.js";
+console.log(test(5,10));
+import {multiply} from "./arr.js";
+console. log(multiply(5,4));
+
