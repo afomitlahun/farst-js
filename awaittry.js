@@ -1,0 +1,10 @@
+try{
+    console.log("A");
+    console.log("b");
+    console.log(car);
+    console.log("c");
+}
+catch{
+    console.log("ERROR");
+}
+console.log("D");
